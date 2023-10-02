@@ -3,10 +3,10 @@ CodeSoft offers a variety of python programming services. I got the chance to be
 
 Virtual Internship Tasks:-
 ## Task1 - To-Do List
-[Live](https://shiveshmukund.github.io/CODSOFT/Task_1)
+[Live](https://shiveshmukund.github.io/CODSOFT/Task_1/todo.py)
 
 ## Task2 - Calculator
-[Live](https://shiveshmukund.github.io/CODSOFT/Task_2)
+[Live](https://shiveshmukund.github.io/CODSOFT/Task_2/calc.py)
 
 ## Task3 - Password Generator
-[Live](https://shiveshmukund.github.io/CODSOFT/Task_3)
+[Live](https://shiveshmukund.github.io/CODSOFT/Task_3/pwdgen.py)
